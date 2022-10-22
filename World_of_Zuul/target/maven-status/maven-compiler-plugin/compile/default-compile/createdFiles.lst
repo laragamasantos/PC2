@@ -1,0 +1,7 @@
+source\CommandWords.class
+source\Command.class
+source\Parser.class
+source\TesteJogo.class
+source\Game.class
+source\Room.class
+source\Item.class
